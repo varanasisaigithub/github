@@ -1,7 +1,7 @@
 # Playing with Git
 
-- Commands - 
+- Commands : 
 
-- Learning - 
+- Learning :
 
-- Tips and Tricks - 
+- Tips and Tricks : 
