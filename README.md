@@ -2,6 +2,10 @@
 
 - Commands : 
 
+	@ git rebase test 
+
 - Learning :
 
-- Tips and Tricks : 
+- Tips and Tricks :
+
+- 
