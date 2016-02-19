@@ -5,7 +5,9 @@
 	@ git rebase test 
 	@ git branch <branch name>
 	@ git checkout <branch name>
-	@ git 
+	@ git reset --hard <HEAD>
+	@ git merge <remote branch name>
+	@ git log pretty=oneline -<No. of Commits>
 
 - Learning :
 
