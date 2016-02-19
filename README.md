@@ -2,10 +2,12 @@
 
 - Commands : 
 
-	@ git rebase test \n 
-	@ git branch <branch name> \n
-	@ git checkout <branch name> \n
-	@ git
+	@ git rebase test 
+	@ git branch <branch name>
+	@ git checkout <branch name>
+	@ git reset --hard <HEAD>
+	@ git merge <remote branch name>
+	@ git log pretty=oneline -<No. of Commits>
 
 - Learning :
 
