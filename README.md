@@ -2,9 +2,9 @@
 
 - Commands : 
 
-	@ git rebase test 
-	@ git branch <branch name>
-	@ git checkout <branch name>
+	@ git rebase test \n 
+	@ git branch <branch name> \n
+	@ git checkout <branch name> \n
 	@ git
 
 - Learning :
